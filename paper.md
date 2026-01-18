@@ -34,7 +34,7 @@ The game is played between the **Player** and the **Computer** in the terminal.
 
 2. Run it using:
    ```bash
-   python rock_paper_scissors.py
+   python rock.py
 ## Sample Output
 
 ```text
